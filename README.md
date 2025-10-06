@@ -120,7 +120,8 @@ print(f"IP Address for {mac_address} is: {ip_address}")
 client_socket.close()
 ```
 ## OUPUT -RARP
-<img width="1454" height="294" alt="image" src="https://github.com/user-attachments/assets/cae096d9-3b0f-4b01-a1ba-074648f162e0" />
+<img width="1408" height="325" alt="image" src="https://github.com/user-attachments/assets/c3991b27-b7c2-4d47-9612-39c1a00be0e5" />
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
